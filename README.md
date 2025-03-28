@@ -2,6 +2,9 @@
 
 A React-based user management app that integrates with the Reqres API for authentication and user operations. Features include login, user listing, and CRUD actions.
 
+## Take A PreView
+Open [https://9lcwn5.csb.app/login](https://9lcwn5.csb.app/login) to view it in your browser
+
 ## Technologies Used
 -> React.js – Frontend framework
 
