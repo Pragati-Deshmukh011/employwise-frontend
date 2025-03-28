@@ -1,4 +1,4 @@
-# The EmployWise
+#  React application that integrates with the Reqres API
 
 A React-based user management app that integrates with the Reqres API for authentication and user operations. Features include login, user listing, and CRUD actions.
 
